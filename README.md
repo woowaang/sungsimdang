@@ -745,3 +745,4 @@ if __name__ == '__main__':
 - **프로세서**: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
 - **RAM**: 24.0GB
 - **시스템**: 64비트 운영 체제, x64 기반 프로세서
+- **OS**: Windows 11 Pro 23H2 22631.4317
